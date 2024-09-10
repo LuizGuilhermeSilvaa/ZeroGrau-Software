@@ -1,2 +1,8 @@
 # ZeroGrau-Software
-App para agendamentos de limpezas ( antigo nome zero grau )
+Sistema de cadastro de clientes para controle e manutenção de limpeza de aparelhos de ar-condicionado.
+
+## Tecnologias
+
+- Python
+- Tkinter
+- Sqlite
