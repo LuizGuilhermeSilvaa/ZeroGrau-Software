@@ -5,7 +5,7 @@ Sistema de cadastro de clientes para controle e manutenção de limpeza de apare
 
 ## Curiosidade
 
-O sistema foi feito para fins de aprendizado, porém a ideia veio a fim de resolver uma dor real, a falta de um sistema de gerenciamento dos clientes do meu pai, esse foi um dos primeiros sistema que ja fiz, e a ideia é refatorar o sistema inteiro porém que tenha um melhor desempenho.
+Criei esse sistema como um projeto de aprendizado, mas a ideia veio de uma necessidade real: ajudar meu pai a organizar melhor os clientes dele. Foi um dos primeiros sistemas que desenvolvi, e agora quero refatorá-lo, tornando-o mais eficiente e com um desempenho melhor.
 
 ## Tecnologias
 
